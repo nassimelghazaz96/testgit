@@ -5,4 +5,4 @@ Vente de Prestations
 
 BIC : Bénéfices Industriels et commerciaux 
 BNC : Bénéfices Non Commerciaux (70 000euros) 
-ACCRE Réduction
+ACCRE Réduction (Non)
